@@ -1,10 +1,25 @@
 .conteiner{
       max-width:1200px;
+      margin-left:auto;
+      margin-right:auto;
 }
 header{
       background: linear-gradient(108.21deg, #2272FF 0%, #0D03C3 97.89%);
 }
+header a{
+    color:#FFFFFF;
+}
+a{
+   text-decoration:none;
+}
 .head{
       display:flex;
       justify-content:spase-between;
+}
+.logo{
+    font-family: 'Inter'; 
+    font-style: normal; 
+    font-weight: 600; 
+    font-size: 18px;
+    color: #FFFFFF;
 }
