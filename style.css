@@ -17,9 +17,17 @@ a{
       justify-content:spase-between;
 }
 .logo{
-    font-family: 'Inter'; 
-    font-style: normal; 
-    font-weight: 600; 
-    font-size: 18px;
-    color: #FFFFFF;
+      font-family: 'Inter'; 
+      font-style: normal; 
+      font-weight: 600; 
+      font-size: 18px;
+      color: #FFFFFF;
+}
+nav a{
+   font-family: 'Inter';
+   font-style: normal; 
+   font-weight: 600; 
+   font-size: 18px;
+   line-height: 21px;
+   color: #FFFFFF;
 }
