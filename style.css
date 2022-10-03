@@ -14,7 +14,7 @@ a{
 }
 .head{
       display:flex;
-      justify-content:spase-between;
+      justify-content:space-between;
 }
 .logo{
       font-family: 'Inter'; 
@@ -23,6 +23,10 @@ a{
       font-size: 18px;
       color: #FFFFFF;
 }
+nav{
+     display:flex;
+     justify-content:center;
+}
 nav a{
    font-family: 'Inter';
    font-style: normal; 
@@ -30,4 +34,6 @@ nav a{
    font-size: 18px;
    line-height: 21px;
    color: #FFFFFF;
+   margin-left:21px;
+   margin-right:21px;
 }
