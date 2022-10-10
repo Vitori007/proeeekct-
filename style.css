@@ -98,7 +98,17 @@ form input {
     border:none;
     text-align: left;
     border-radius: 71px;
+    outline none;   
 }
 form.email{
       padding-left:74px;
- }    
+}  
+form.submit{
+      width: 171px;
+      height: 54px;
+      background linear-gradient(106.75deg, #2272FF 0%, #0D03C3 100%);
+      border-radius: 42px;
+      margin-fight:6px;
+      text-align: center;
+      color:white;
+}
