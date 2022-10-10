@@ -43,5 +43,6 @@ nav a{
    margin-right:21px;
 }
 .head > a:last-child{
-     background-color: white;
+      background-color: white;
+      border-radius:50px; 
  }   
