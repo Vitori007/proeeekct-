@@ -68,5 +68,9 @@ h1{
 }
 p{ 
    text-align:center;
-   font-family:'inter';   
+   font-family:'inter';
+   font-style:normal;
+   font-weight:500px;
+   font-size: 20px;
+   color:#FFFFFF;   
 }
