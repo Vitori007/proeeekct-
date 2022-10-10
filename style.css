@@ -56,3 +56,11 @@ nav a{
       font-size:18px;
       color:#000000;
  }   
+h1{
+    font-family:'inter';
+    font-style:normal;
+    font-weight: 800px;
+    font-size:72px;
+    line-height:80px;
+    color:#FFFFFF;  
+}
