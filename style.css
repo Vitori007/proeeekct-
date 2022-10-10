@@ -45,6 +45,9 @@ nav a{
 .head>a:last-child{
       width:123px;
       height:42px;
+      display:flex;
+      justify-content: center;
+      align-items:center;
       background-color: white;
       border-radius:50px; 
       font-family: 'inter';
