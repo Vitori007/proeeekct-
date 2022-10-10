@@ -74,3 +74,9 @@ p{
    font-size: 20px;
    color:#FFFFFF;   
 }
+from p{
+      width:575px;
+      height:67px;
+      border-radius:71px;
+      background:#FFFFFF;
+}      
