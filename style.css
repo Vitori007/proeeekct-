@@ -113,6 +113,6 @@ form.submit{
       color:white;
       cursor:pointer;
 }
-font.submit,:hover{
+font.submit:hover{
      background: linear-gradient(106.75deg, #13233F0%, #5750cb 100%); 
 }
