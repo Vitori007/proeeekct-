@@ -85,13 +85,20 @@ form p{
       background:#FFFFFF;
       display:flex;
       justify-content: space-between;
-} 
+}
+form p img{
+      position: absolute;
+      width:20px;
+      height:15px;
+      left: 29px;
+      top:26px;
+}
 form input {
     background-color: none;
     border:none;
     text-align: left;
     border-radius: 71px;
 }
-form.emil{
+form.email{
       padding-left:74px;
  }    
