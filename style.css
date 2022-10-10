@@ -83,8 +83,15 @@ form p{
       height:67px;
       border-radius:71px;
       background:#FFFFFF;
+      display:flex;
+      justify-content: space-between;
 } 
 form input {
     background-color: none;
     border:none;
+    text-align: left;
+    border-radius: 71px;
 }
+form.emil{
+      padding-left:74px;
+ }    
