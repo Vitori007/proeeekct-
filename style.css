@@ -98,7 +98,7 @@ form input {
     border:none;
     text-align: left;
     border-radius: 71px;
-    outline none;   
+    outline:none;   
 }
 form.email{
       padding-left:74px;
