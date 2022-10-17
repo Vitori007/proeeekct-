@@ -85,6 +85,8 @@ form p{
       background:#FFFFFF;
       display:flex;
       justify-content: space-between;
+      align-items: center;
+      position: relative;
 }
 form p img{
       position: absolute;
