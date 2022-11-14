@@ -819,3 +819,22 @@ form .submit:hover {
   transition: 0.5s;
 }
 
+.price article:hover h4,
+.price article:hover p,
+.price article:hover span {
+  color: #FFFFFF;
+  opacity: 1;
+  transition: 0.5s;
+}
+.price article:hover a {
+  background: #FFFFFF;
+  color: #0F0BC7;
+  transition: 0.5s;
+}
+
+.price article:hover li span {
+  background: #FFFFFF;
+  background-image: url(img/list2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
